@@ -1,0 +1,6 @@
+// Mixin
+@mixin preudo() {
+  content: '';
+  display: block;
+  position: absolute;
+}
